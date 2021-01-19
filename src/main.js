@@ -9,7 +9,7 @@ import router from './router'
 Vue.use(MintUI)
 Vue.config.productionTip = false
 
-/* eslint-disable no-new */
+/* eslint-disable no-new ceshi*/
 new Vue({
   el: '#app',
   router,
