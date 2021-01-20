@@ -3,7 +3,7 @@
 
     <mt-header fixed title="投票">
       <router-link to="/" slot="left">
-        <mt-button icon="back">返回</mt-button>
+        <mt-button icon="back">返回啊</mt-button>
        <!-- <mt-button @click="handleClose">关闭</mt-button> -->
       </router-link>
       <mt-button icon="more" slot="right"></mt-button>
